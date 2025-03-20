@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/BoneUpdater.cs" />
+    <Compile Include="Assets/HumanoidDriver.cs" />
     <Compile Include="Assets/MoCapModel.cs" />
     <Compile Include="Assets/CsvTest.cs" />
     <Compile Include="Assets/MoCapPlayBack.cs" />
