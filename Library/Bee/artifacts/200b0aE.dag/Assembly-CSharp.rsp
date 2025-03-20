@@ -399,6 +399,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.37f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/BoneUpdater.cs"
 "Assets/CsvTest.cs"
+"Assets/HumanoidDriver.cs"
 "Assets/MoCapModel.cs"
 "Assets/MoCapPlayBack.cs"
 "Assets/MotionCapture.cs"

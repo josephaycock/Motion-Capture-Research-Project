@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: 32627e5a67db05c4aa6b26f45cd7debd
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281422
+  packageName: This package contains idle motion data for 3D characters
+  packageVersion: 1.0
+  assetPath: Assets/Viewport/Model/SampleModel.fbx
+  uploadId: 663321
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -16,8 +23,6 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -732,8 +737,7 @@ ModelImporter:
     - name: RightFingerBase
       parentName: RightHand
       position: {x: 0.081333004, y: -0.0079198815, z: 0.0000000014466028}
-      rotation: {x: 0.00000024690596, y: -0.0000000046566133, z: -0.0000000020571918,
-        w: 1}
+      rotation: {x: 0.00000024690596, y: -0.0000000046566133, z: -0.0000000020571918, w: 1}
       scale: {x: 1, y: 1, z: 1.0000001}
     - name: RightHandMiddle1
       parentName: RightFingerBase
@@ -1328,7 +1332,7 @@ ModelImporter:
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
+  autoGenerateAvatarMappingIfUnspecified: 0
   animationType: 3
   humanoidOversampling: 1
   avatarSetup: 1
@@ -1339,10 +1343,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 281422
-  packageName: This package contains idle motion data for 3D characters
-  packageVersion: 1.0
-  assetPath: Assets/Viewport/Model/SampleModel.fbx
-  uploadId: 663321
