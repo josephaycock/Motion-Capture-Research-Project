@@ -65,16 +65,14 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.0.37f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/BoneUpdater.cs" />
     <Compile Include="Assets/HumanoidDriver.cs" />
-    <Compile Include="Assets/MoCapModel.cs" />
     <Compile Include="Assets/CsvTest.cs" />
-    <Compile Include="Assets/MoCapPlayBack.cs" />
     <Compile Include="Assets/MotionCapture.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Packages/CsvHelper.33.0.1/lib/netstandard2.1/CsvHelper.xml" />
     <None Include="Assets/Packages/CsvHelper.33.0.1/lib/netstandard2.1/CsvHelper.dll" />
+    <None Include="Assets/SkeletonData/animations.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

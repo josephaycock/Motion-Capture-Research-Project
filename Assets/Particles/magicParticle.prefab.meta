@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 236e86ece2082a047a9cba3485825250
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1818
+  packageName: Skeletons Pack
+  packageVersion: 1.0
+  assetPath: Assets/Particles/magicParticle.prefab
+  uploadId: 25463

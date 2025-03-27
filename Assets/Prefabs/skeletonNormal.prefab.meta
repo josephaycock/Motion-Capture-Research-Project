@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d139727d46a14204285626a8b7ef9525
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1818
+  packageName: Skeletons Pack
+  packageVersion: 1.0
+  assetPath: Assets/Prefabs/skeletonNormal.prefab
+  uploadId: 25463
